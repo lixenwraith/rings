@@ -81,3 +81,8 @@ lint-results.xml
 
 # Android Profiling
 *.hprof
+
+# Personal
+dev/
+.artifacts/
+.run/
